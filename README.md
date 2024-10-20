@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shayan 
+- 👋 Hi, I’m Shayan 
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning html , css and python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me jahanshayan84@gmail.com
 
 <!---
