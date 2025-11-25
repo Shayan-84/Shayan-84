@@ -1,4 +1,4 @@
-<img src="assets/pydata-cover.jpg" width="250" align="right" alt="Python for Data Analysis 2nd Edition"/>
+
 
 # سلام، من شایان جهان‌مهین هستم
 
